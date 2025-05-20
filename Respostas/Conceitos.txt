@@ -1,0 +1,11 @@
+Alessandro Gabriel Rodrigues de Miranda
+
+Associação: Pessoa contem uma lista de Carro mas carro não contem uma pessoa
+
+Cardinalidade: uma pessoa contem uma lista de carros e carro só pode ser usado por uma pessoa sem necessitar de armazenar essa pessoa
+
+Encapsulamento: atributos privados e metodos publicos como usarCarro() e dirigir()
+
+Comportamento: usarCarro() e o metodo dirigir()
+
+Atributos e Metodos: nome, modelo e lista carrosUsados para atributos e usarCarro() e listarCarrosUsados() para metodos
